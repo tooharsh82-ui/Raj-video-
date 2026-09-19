@@ -1,0 +1,6 @@
+{
+  "name": "Raj Video",
+  "description": "Premium Wedding Photography and Cinematic Videography services based in Ara Bindtoli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
